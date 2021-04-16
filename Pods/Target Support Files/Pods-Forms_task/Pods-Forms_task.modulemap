@@ -1,0 +1,6 @@
+framework module Pods_Forms_task {
+  umbrella header "Pods-Forms_task-umbrella.h"
+
+  export *
+  module * { export * }
+}

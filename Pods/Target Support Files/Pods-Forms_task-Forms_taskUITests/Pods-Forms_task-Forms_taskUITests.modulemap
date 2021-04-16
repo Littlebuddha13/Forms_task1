@@ -1,0 +1,6 @@
+framework module Pods_Forms_task_Forms_taskUITests {
+  umbrella header "Pods-Forms_task-Forms_taskUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
